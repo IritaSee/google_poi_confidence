@@ -1,5 +1,6 @@
 # Google POI Confidence
 Reflect how similar POI data from OpenStreetMap and Google Maps Scrapping
+(for Kuwala.io Junior Data Engineer role)
 ## Task:
 ```
 At Kuwala, we have two pipelines to get POI information. The first is the OpenStreetMap
